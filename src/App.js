@@ -134,7 +134,7 @@ function App() {
       )}
       
       <footer className="footer">
-        <p>© 2023 University Search | Using universities.hipolabs.com API</p>
+        <p>created by Seyed Amirhossein Gholampour</p>
       </footer>
     </Container>
   );
